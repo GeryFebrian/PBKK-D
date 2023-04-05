@@ -1,0 +1,17 @@
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.csproj.AssemblyReference.cache
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.Form1.resources
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.csproj.GenerateResource.cache
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.AssemblyInfoInputs.cache
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.AssemblyInfo.cs
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.csproj.CoreCompileInputs.cache
+D:\PBKK\Tugas 1\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.exe
+D:\PBKK\Tugas 1\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.deps.json
+D:\PBKK\Tugas 1\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.runtimeconfig.json
+D:\PBKK\Tugas 1\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.dll
+D:\PBKK\Tugas 1\Kalkulator\bin\Debug\net6.0-windows\Kalkulator.pdb
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.dll
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net6.0-windows\refint\Kalkulator.dll
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.pdb
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net6.0-windows\Kalkulator.genruntimeconfig.cache
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net6.0-windows\ref\Kalkulator.dll
